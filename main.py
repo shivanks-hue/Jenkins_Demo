@@ -2,8 +2,8 @@ from selenium import webdriver
 import time
 from selenium.webdriver.support.ui import Select
 
-username = "prashantsharma@lambdatest.com"
-pd = "aARUSH@123"
+username = "shivanks@lambdatest.com"
+pd = "Bennett@#92309234234"
 url = "https://accounts.lambdatest.com/login"
 
 driver = webdriver.Chrome()
